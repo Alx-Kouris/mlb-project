@@ -1,0 +1,112 @@
+sample,cell type
+"CD19+ B Cells (pluriselect), donor090309, donation2.CNhs12179.12194-129B7",CD19+ B cells
+"CD19+ B Cells (pluriselect), donor090309, donation3.CNhs12181.12199-129C3",CD19+ B cells
+"CD19+ B Cells (pluriselect), donor090325, donation1.CNhs12531.12151-128F9",CD19+ B cells
+"CD19+ B Cells (pluriselect), donor090325, donation2.CNhs12175.12174-128I5",CD19+ B cells
+"CD19+ B Cells (pluriselect), donor090612, donation1.CNhs12183.12204-129C8",CD19+ B cells
+"CD19+ B Cells (pluriselect), donor090612, donation2.CNhs12185.12209-129D4",CD19+ B cells
+"CD19+ B Cells (pluriselect), donor090612, donation3.CNhs12188.12214-129D9",CD19+ B cells
+"CD19+ B Cells, donor1.CNhs12343.11544-120B5",CD19+ B cells
+"CD19+ B Cells, donor2.CNhs12352.11624-122B4",CD19+ B cells
+"CD19+ B Cells, donor3.CNhs12354.11705-123B4",CD19+ B cells
+"CD4+ T Cells, donor1.CNhs10853.11225-116C1",CD4+ Helper T cells
+"CD4+ T Cells, donor2.CNhs11955.11306-117C1",CD4+ Helper T cells
+"CD4+ T Cells, donor3.CNhs11998.11382-118B5",CD4+ Helper T cells
+"CD4+CD25+CD45RA- memory regulatory T cells expanded, donor1.CNhs13204.11794-124C3",CD4+ Helper T cells
+"CD4+CD25+CD45RA- memory regulatory T cells expanded, donor2.CNhs13811.11916-125G8",CD4+ Helper T cells
+"CD4+CD25+CD45RA- memory regulatory T cells expanded, donor3.CNhs13812.11920-125H3",CD4+ Helper T cells
+"CD4+CD25+CD45RA- memory regulatory T cells, donor1.CNhs13195.11782-124A9",CD4+ Helper T cells
+"CD4+CD25+CD45RA- memory regulatory T cells, donor2.CNhs13206.11797-124C6",CD4+ Helper T cells
+"CD4+CD25+CD45RA- memory regulatory T cells, donor3.CNhs13538.11908-125F9",CD4+ Helper T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells expanded, donor1.CNhs13203.11793-124C2",CD4+ Helper T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells expanded, donor2.CNhs13918.11915-125G7",CD4+ Helper T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells expanded, donor3.CNhs13919.11919-125H2",CD4+ Helper T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells, donor1.CNhs13238.11780-124A7",CD4+ Helper T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells, donor2.CNhs13235.11796-124C5",CD4+ Helper T cells
+"CD4+CD25-CD45RA- memory conventional T cells expanded, donor1.CNhs13215.11792-124C1",CD4+ Helper T cells
+"CD4+CD25-CD45RA- memory conventional T cells expanded, donor2.CNhs13920.11914-125G6",CD4+ Helper T cells
+"CD4+CD25-CD45RA- memory conventional T cells expanded, donor3.CNhs13921.11918-125H1",CD4+ Helper T cells
+"CD4+CD25-CD45RA- memory conventional T cells, donor1.CNhs13239.11786-124B4",CD4+ Helper T cells
+"CD4+CD25-CD45RA- memory conventional T cells, donor2.CNhs13237.11798-124C7",CD4+ Helper T cells
+"CD4+CD25-CD45RA- memory conventional T cells, donor3.CNhs13539.11909-125G1",CD4+ Helper T cells
+"CD4+CD25-CD45RA+ naive conventional T cells expanded, donor1.CNhs13202.11791-124B9",CD4+ Helper T cells
+"CD4+CD25-CD45RA+ naive conventional T cells expanded, donor2.CNhs13813.11913-125G5",CD4+ Helper T cells
+"CD4+CD25-CD45RA+ naive conventional T cells expanded, donor3.CNhs13814.11917-125G9",CD4+ Helper T cells
+"CD4+CD25-CD45RA+ naive conventional T cells, donor1.CNhs13223.11784-124B2",CD4+ Helper T cells
+"CD4+CD25-CD45RA+ naive conventional T cells, donor2.CNhs13205.11795-124C4",CD4+ Helper T cells
+"CD4+CD25-CD45RA+ naive conventional T cells, donor3.CNhs13512.11906-125F7",CD4+ Helper T cells
+"CD133+ stem cells - adult bone marrow derived, pool1.CNhs12552.12224-129F1",CD34+ cells
+"CD34+ Progenitors, donor1.CNhs13227.11545-120B6",CD34+ cells
+"CD34+ Progenitors, donor2.CNhs12205.11625-122B5",CD34+ cells
+"CD34+ stem cells - adult bone marrow derived, donor1, tech_rep1.CNhs12588.12225-129F2",CD34+ cells
+"CD34+ stem cells - adult bone marrow derived, donor1, tech_rep2.CNhs12553.12225-129F2",CD34+ cells
+"CD14+ monocytes - mock treated, donor1.CNhs13468.11863-125A9",CD14+ Monocytes
+"CD14+ monocytes - mock treated, donor2.CNhs13484.11873-125C1",CD14+ Monocytes
+"CD14+ monocytes - mock treated, donor3.CNhs13491.11883-125D2",CD14+ Monocytes
+"CD14+ Monocytes, donor1.CNhs10852.11224-116B9",CD14+ Monocytes
+"CD14+ Monocytes, donor2.CNhs11954.11305-117B9",CD14+ Monocytes
+"CD14+ Monocytes, donor3.CNhs11997.11381-118B4",CD14+ Monocytes
+"CD14+CD16- Monocytes, donor1.CNhs13224.11788-124B6",CD14+ Monocytes
+"CD14+CD16- Monocytes, donor2.CNhs13216.11799-124C8",CD14+ Monocytes
+"CD14+CD16- Monocytes, donor3.CNhs13540.11910-125G2",CD14+ Monocytes
+"CD14+CD16+ Monocytes, donor1.CNhs13541.11789-124B7",CD14+ Monocytes
+"CD14+CD16+ Monocytes, donor2.CNhs13208.11801-124D1",CD14+ Monocytes
+"CD14+CD16+ Monocytes, donor3.CNhs13549.11912-125G4",CD14+ Monocytes
+"Macrophage - monocyte derived, donor1.CNhs10861.11232-116C8",CD14+ Monocytes
+"Macrophage - monocyte derived, donor2.CNhs11899.11313-117C8",CD14+ Monocytes
+"Macrophage - monocyte derived, donor3.CNhs12003.11389-118C3",CD14+ Monocytes
+"Monocyte-derived macrophages response to LPS, 00hr00min, donor2 (t1 Subject2).CNhs13379.12796-136F6",CD14+ Monocytes
+"Monocyte-derived macrophages response to LPS, 00hr00min, donor3 (t1 Subject3).CNhs13174.12894-137H5",CD14+ Monocytes
+"Monocyte-derived macrophages response to mock influenza infection, 00hr00min, donor3 (536_119:MI_0h).CNhs13649.13322-143B1",CD14+ Monocytes
+"Monocyte-derived macrophages response to mock influenza infection, 00hr00min, donor4 (227_121:MI_0h).CNhs13638.13310-142I7",CD14+ Monocytes
+"Monocyte-derived macrophages response to mock influenza infection, 24hr00min, donor1 (868_121:MI_24h).CNhs13693.13309-142I6",CD14+ Monocytes
+"Monocyte-derived macrophages response to mock influenza infection, 24hr00min, donor2 (150_120:MI_24h).CNhs13648.13321-143A9",CD14+ Monocytes
+"Monocyte-derived macrophages response to mock influenza infection, 24hr00min, donor3 (536_119:MI_24h).CNhs13652.13327-143B6",CD14+ Monocytes
+"Monocyte-derived macrophages response to mock influenza infection, 24hr00min, donor4 (227_121:MI_24h).CNhs13644.13315-143A3",CD14+ Monocytes
+"Monocyte-derived macrophages response to udorn influenza infection, 00hr00min, donor1 (868_121:Ud_0h).CNhs13554.13305-142I2",CD14+ Monocytes
+"Monocyte-derived macrophages response to udorn influenza infection, 00hr00min, donor2 (150_120:Ud_0h).CNhs13646.13317-143A5",CD14+ Monocytes
+"Monocyte-derived macrophages response to udorn influenza infection, 00hr00min, donor3 (536_119:Ud_0h).CNhs13650.13323-143B2",CD14+ Monocytes
+"Monocyte-derived macrophages response to udorn influenza infection, 00hr00min, donor4 (227_121:Ud_0h).CNhs13639.13311-142I8",CD14+ Monocytes
+"Natural Killer Cells, donor1.CNhs10859.11230-116C6",CD56+ NK cells
+"Natural Killer Cells, donor2.CNhs11957.11311-117C6",CD56+ NK cells
+"Natural Killer Cells, donor3.CNhs12001.11387-118C1",CD56+ NK cells
+"CD8+ T Cells (pluriselect), donor090309, donation1.CNhs12176.12186-129A8",CD8+ Cytotoxic T cells
+"CD8+ T Cells (pluriselect), donor090309, donation2.CNhs12178.12191-129B4",CD8+ Cytotoxic T cells
+"CD8+ T Cells (pluriselect), donor090309, donation3.CNhs12180.12196-129B9",CD8+ Cytotoxic T cells
+"CD8+ T Cells (pluriselect), donor090325, donation1.CNhs12201.12148-128F6",CD8+ Cytotoxic T cells
+"CD8+ T Cells (pluriselect), donor090325, donation2.CNhs12199.12171-128I2",CD8+ Cytotoxic T cells
+"CD8+ T Cells (pluriselect), donor090612, donation1.CNhs12182.12201-129C5",CD8+ Cytotoxic T cells
+"CD8+ T Cells (pluriselect), donor090612, donation2.CNhs12184.12206-129D1",CD8+ Cytotoxic T cells
+"CD8+ T Cells (pluriselect), donor090612, donation3.CNhs12187.12211-129D6",CD8+ Cytotoxic T cells
+"CD8+ T Cells, donor1.CNhs10854.11226-116C2",CD8+ Cytotoxic T cells
+"CD8+ T Cells, donor2.CNhs11956.11307-117C2",CD8+ Cytotoxic T cells
+"CD8+ T Cells, donor3.CNhs11999.11383-118B6",CD8+ Cytotoxic T cells
+"CD4+CD25+CD45RA- memory regulatory T cells expanded, donor1.CNhs13204.11794-124C3",CD4+/CD45RO+ Memory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells expanded, donor2.CNhs13811.11916-125G8",CD4+/CD45RO+ Memory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells expanded, donor3.CNhs13812.11920-125H3",CD4+/CD45RO+ Memory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells, donor1.CNhs13195.11782-124A9",CD4+/CD45RO+ Memory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells, donor2.CNhs13206.11797-124C6",CD4+/CD45RO+ Memory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells, donor3.CNhs13538.11908-125F9",CD4+/CD45RO+ Memory T cells
+"CD4+CD25-CD45RA- memory conventional T cells expanded, donor1.CNhs13215.11792-124C1",CD4+/CD45RO+ Memory T cells
+"CD4+CD25-CD45RA- memory conventional T cells expanded, donor2.CNhs13920.11914-125G6",CD4+/CD45RO+ Memory T cells
+"CD4+CD25-CD45RA- memory conventional T cells expanded, donor3.CNhs13921.11918-125H1",CD4+/CD45RO+ Memory T cells
+"CD4+CD25-CD45RA- memory conventional T cells, donor1.CNhs13239.11786-124B4",CD4+/CD45RO+ Memory T cells
+"CD4+CD25-CD45RA- memory conventional T cells, donor2.CNhs13237.11798-124C7",CD4+/CD45RO+ Memory T cells
+"CD4+CD25-CD45RA- memory conventional T cells, donor3.CNhs13539.11909-125G1",CD4+/CD45RO+ Memory T cells
+"CD4+CD25-CD45RA+ naive conventional T cells expanded, donor1.CNhs13202.11791-124B9",CD4+/CD45RA+/CD25- Naïve T cells
+"CD4+CD25-CD45RA+ naive conventional T cells expanded, donor2.CNhs13813.11913-125G5",CD4+/CD45RA+/CD25- Naïve T cells
+"CD4+CD25-CD45RA+ naive conventional T cells expanded, donor3.CNhs13814.11917-125G9",CD4+/CD45RA+/CD25- Naïve T cells
+"CD4+CD25-CD45RA+ naive conventional T cells, donor1.CNhs13223.11784-124B2",CD4+/CD45RA+/CD25- Naïve T cells
+"CD4+CD25-CD45RA+ naive conventional T cells, donor2.CNhs13205.11795-124C4",CD4+/CD45RA+/CD25- Naïve T cells
+"CD4+CD25-CD45RA+ naive conventional T cells, donor3.CNhs13512.11906-125F7",CD4+/CD45RA+/CD25- Naïve T cells
+"CD4+CD25+CD45RA- memory regulatory T cells expanded, donor1.CNhs13204.11794-124C3",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells expanded, donor2.CNhs13811.11916-125G8",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells expanded, donor3.CNhs13812.11920-125H3",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells, donor1.CNhs13195.11782-124A9",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells, donor2.CNhs13206.11797-124C6",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA- memory regulatory T cells, donor3.CNhs13538.11908-125F9",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells expanded, donor1.CNhs13203.11793-124C2",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells expanded, donor2.CNhs13918.11915-125G7",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells expanded, donor3.CNhs13919.11919-125H2",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells, donor1.CNhs13238.11780-124A7",CD4+/CD25+ Regulatory T cells
+"CD4+CD25+CD45RA+ naive regulatory T cells, donor2.CNhs13235.11796-124C5",CD4+/CD25+ Regulatory T cells
