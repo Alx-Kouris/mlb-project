@@ -1,4 +1,5 @@
-# mlb-project
+# Machine Learning in Computational Biology
+# Final Project from Alex Kouris
 
 Due to the file sizes and github limitations, some of the files need to be downloaded separately and couldn't be included in the repository.
 
